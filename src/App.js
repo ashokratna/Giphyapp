@@ -20,7 +20,7 @@ class App extends React.Component {
     }
 
     fetchGifs(searchTerm) {
-        return fetch(`http://api.giphy.com/v1/gifs/search?q=${searchTerm}&api_key=${API_KEY}&limit=25`)
+        return fetch(`https://api.giphy.com/v1/gifs/search?q=${searchTerm}&api_key=${API_KEY}&limit=25`)
             .then(res => res.json())
             .then(json => {
                 if (json.error) {
