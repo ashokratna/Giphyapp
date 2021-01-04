@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Giphyapp/static/css/main.2f4705df.chunk.css",
-    "main.js": "/Giphyapp/static/js/main.6139347b.chunk.js",
-    "main.js.map": "/Giphyapp/static/js/main.6139347b.chunk.js.map",
+    "main.js": "/Giphyapp/static/js/main.8fcad220.chunk.js",
+    "main.js.map": "/Giphyapp/static/js/main.8fcad220.chunk.js.map",
     "runtime-main.js": "/Giphyapp/static/js/runtime-main.3b6f79fd.js",
     "runtime-main.js.map": "/Giphyapp/static/js/runtime-main.3b6f79fd.js.map",
     "static/css/2.c3ecac1c.chunk.css": "/Giphyapp/static/css/2.c3ecac1c.chunk.css",
     "static/js/2.eff43fc8.chunk.js": "/Giphyapp/static/js/2.eff43fc8.chunk.js",
     "static/js/2.eff43fc8.chunk.js.map": "/Giphyapp/static/js/2.eff43fc8.chunk.js.map",
     "index.html": "/Giphyapp/index.html",
-    "precache-manifest.daea4f6ac75e77ecadc084647660155e.js": "/Giphyapp/precache-manifest.daea4f6ac75e77ecadc084647660155e.js",
+    "precache-manifest.1b43fb335aa2ff9ff3090ffc0ce2ae20.js": "/Giphyapp/precache-manifest.1b43fb335aa2ff9ff3090ffc0ce2ae20.js",
     "service-worker.js": "/Giphyapp/service-worker.js",
     "static/css/2.c3ecac1c.chunk.css.map": "/Giphyapp/static/css/2.c3ecac1c.chunk.css.map",
     "static/css/main.2f4705df.chunk.css.map": "/Giphyapp/static/css/main.2f4705df.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.c3ecac1c.chunk.css",
     "static/js/2.eff43fc8.chunk.js",
     "static/css/main.2f4705df.chunk.css",
-    "static/js/main.6139347b.chunk.js"
+    "static/js/main.8fcad220.chunk.js"
   ]
 }
